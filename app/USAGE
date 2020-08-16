@@ -1,5 +1,5 @@
 Description:
-    Yeoman generator for HTML Template.
+    Yeoman generator for HTML Template EmberJS.
 
 Example:
-    yo html-template
+    yo html-template-emberjs
